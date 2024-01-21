@@ -2,7 +2,7 @@
 library("ggplot2")
 
 # Read CSV file
-cap_data <- read.csv("~\\Sogolytics_Capsicum Genus Research Projec_2.csv")
+cap_data <- read.csv("C:/Users/bismi/OneDrive/Desktop/Chili Analysis/Capsicum Genus Research.csv")
 
 ####################################################### Preprocessing ###########################################################
 
