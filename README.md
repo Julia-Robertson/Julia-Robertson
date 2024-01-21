@@ -1,5 +1,5 @@
 # Data-Science-Portfolio - Julia Robertson
-_Welcome to my GitHub! I'm Julia Robertson, a passionate data enthusiast and seasoned professional in the field of data analytics and machine learning._
+_Welcome to my GitHub! I'm Julia Robertson, a passionate data enthusiast and a budding professional in the field of data analytics and machine learning._
 
 The projects were completed along [my journey to data scientist](https://github.com/Julia-Robertson/Julia-Robertson/tree/main/Certificates), and most of them were completed using Python, JupyterNotebook, and R.   
 
